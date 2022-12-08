@@ -3,11 +3,9 @@
 import Foundation
 
 var greeting = "Hello, playground"
+let diceRoll = Int(arc4random()%6 + 1)
+print(diceRoll)
 
 //: [Next](@next)
-let voltage: Double = 120.0
-let current: Double = 9.0
+   
 
-let power = voltage * current
-
-print(power)
