@@ -3,7 +3,6 @@
 import Foundation
 
 let cadena = "Semillero".lowercased()
-print(cadena)
 var vocales = 0
 var consonantes = 0
 
@@ -19,8 +18,7 @@ for letra in cadena {
         print("Default")
     }
 }
-print(consonantes)
-print(vocales)
+print("\(cadena) - contiene \(vocales) vocales: \(consonantes) consonantes.")
 
 
 //: [Next](@next)
