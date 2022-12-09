@@ -27,7 +27,7 @@
 
 ## 6 KANJI [Entregable]
 
-*Desplegar el siguiente formato kanji*[[Codigo:Kanju](https://github.com/batista-eduardo-mat/batista/blob/main/Entregables/8%20fibonacci%20memoria.xcplaygroundpage/Contents.swift)]
+*Desplegar el siguiente formato kanji*[[Codigo:Kanji](https://github.com/batista-eduardo-mat/batista/blob/main/Entregables/8%20fibonacci%20memoria.xcplaygroundpage/Contents.swift)]
 
 ![k](https://github.com/batista-eduardo-mat/batista/blob/main/img/kanji.PNG)
 
