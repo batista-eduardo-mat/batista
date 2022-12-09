@@ -1,6 +1,5 @@
 # Swift Apprentice
-## Sevent Edition
-## Chaper 1: Expressions, Variables & Contants
+### Sevent Edition Chaper 1: Expressions, Variables & Contants
 
 ## Challenge 1: Variables
 Declare a constant Int called myAge and set it equal to your age. Also, declare an Int
@@ -62,13 +61,14 @@ about in Chapter 4, “Advanced Control Flow”.)
 
 [Random integer](https://github.com/batista-eduardo-mat/batista/blob/main/02-Dic-22/02-12-22Challenge.playground/Pages/8%20Random%20integer%20.xcplaygroundpage/Contents.swift)
 
-##Challenge 9: Quadratic equations
+## Challenge 9: Quadratic equations
 A quadratic equation is something of the form a⋅x² + b⋅x + c = 0. The values of x
 which satisfy this can be solved by using the equation x = (-b ± sqrt(b² -
 4⋅a⋅c)) / (2⋅a). Declare three constants named a, b and c of type Double. Then
 calculate the two values for x using the equation above (noting that the ± means plus
 or minus — so one value of x for each). Store the results in constants called root1
 and root2 of type Double.
+
 [Quadratic equations](https://github.com/batista-eduardo-mat/batista/blob/main/02-Dic-22/02-12-22Challenge.playground/Pages/9%20Quadratic%20equations%20.xcplaygroundpage/Contents.swift)
 
 
