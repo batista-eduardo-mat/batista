@@ -2,6 +2,9 @@
 
 ## *Semillero iOS BootCamp 01 Diciembre 2022.*
 
+*En cada carpeta existe una readme.md al final para vizualizar el contenido de una mejor manera*
+
+
 Trabajos, Practicas y Entregables del curso de Fundamentos en Swift
 
 Dia 1 - 1 de Dic 2022
