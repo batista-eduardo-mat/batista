@@ -2,7 +2,7 @@
 
 import Foundation
 
-let n: Int = 100
+let n: Int = 10
 var arreglo = [Int64]()
 
 for i in 0...n {

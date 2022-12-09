@@ -4,7 +4,7 @@ import Foundation
 
 let string = ["David","Eduardo","Batista","Trujillo"]
 
-for (id,nombre) in string.enumerated() {
+for _  in string.enumerated() {
 //    print("\(id+1):\(nombre).")
 }
 

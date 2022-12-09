@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 //1
 var players = ["Alice", "Bob", "Dan", "Eli", "Frank"]
 
